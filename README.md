@@ -6,7 +6,9 @@
  * (will be added with further purposes)
 
 
-## MIT License
+## License
+
+Every codes in this project are licensed under MIT License.
 
 Copyright 2019 PS64 Project
 
